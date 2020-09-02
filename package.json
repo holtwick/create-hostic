@@ -1,6 +1,6 @@
 {
   "name": "create-hostic",
-  "version": "0.9.3",
+  "version": "0.9.4",
   "description": "Creates a static web site powered by Hostic",
   "main": "index.js",
   "bin": {

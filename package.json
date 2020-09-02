@@ -1,6 +1,6 @@
 {
   "name": "create-hostic",
-  "version": "0.10.0",
+  "version": "0.10.1",
   "description": "Creates a static web site powered by Hostic",
   "license": "MIT",
   "main": "index.js",

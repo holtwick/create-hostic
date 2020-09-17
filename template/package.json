@@ -7,6 +7,6 @@
     "build": "hostic build"
   },
   "devDependencies": {
-    "hostic": ">=0.10.2"
+    "hostic": ">=0.12.4"
   }
 }
